@@ -1,5 +1,4 @@
 import numpy as np
-import math
 import statistics
 
 def generate_list(mu, sigma):
